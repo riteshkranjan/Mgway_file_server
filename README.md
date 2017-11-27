@@ -1,4 +1,4 @@
-# Mgway_file_server
+#file_server
 mobility gateway server
 
 1. Install Node
